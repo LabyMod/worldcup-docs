@@ -35,6 +35,10 @@ This component has the following arguments you can configure:
     - `hide`: The entire firework is hidden for this component. (Recommended if placed individually)
     - `burst`: The burst firework shows up when the score increases for the specific team.
     - `flag`: The flag firework shows up when the score increases for the specific team.
+* `off`: The offset of the canvas as a 3-dimensional vector.<br>
+  The offset is relative to the sign position and can be used to adjust the position of the canvas.<br>
+  The offset has the following format: `x,y,z`<br>
+  The offset can be negative or positive.
 
 ### Example
 

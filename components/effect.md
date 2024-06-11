@@ -34,7 +34,7 @@ This component has the following arguments you can configure:
     - `burst`: The burst firework shows up when the score increases for the specific team.
     - `flag`: The flag firework shows up when the score increases for the specific team.
 * `team`: The side of the team that the effect is bound to.<br>
-  This option is only needed for the burst effect.<br>
+  This option is only available for the burst effect. It triggers for both teams if no specific team is set.<br>
   It has the following values:
     - `left`: The burst effect is bound to the left team side.
     - `right`: The burst effect is bound to the right team side.

@@ -7,6 +7,7 @@
   - GommeHD - gommehd.net (Gommunity)
   - SuperAwesome - superawesome.dk (Lobby)
   - Timolia - timolia.de (Lobby)
+  - OPSUCHT - opsucht.net (CityBuild2: /warp em)
 
 ## Set up your own stream location
 If you are a server administrator you can check out the [Component Overview](/components.md) to create your own stream location.
